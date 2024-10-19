@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.project-image {
+  height: 200px;
+  width: 200px;
+}
+.duration-container {
+  display: flex;
+}
+.calender-image{
+  margin-top: 20px;
+  margin-right: 4px;
+}

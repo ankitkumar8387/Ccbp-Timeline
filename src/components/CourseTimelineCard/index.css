@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.title-duration-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.clock-container {
+  display: flex;
+}
+.clock-image {
+  margin-top: 20px;
+}
+.list-item {
+  list-style-type: none;
+}
+.unordered-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.course-name {
+  background-color: #6b7fa0;
+  margin-left: 5px;
+  color: #ffffff;
+  padding: 5px;
+}
